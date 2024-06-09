@@ -23,8 +23,12 @@ JavaScript Interactivity: JavaScript was used to implement interactivity feature
 
 Coding Challenges
 Setup Instructions
+In coding challenge has index.html where you can open this in webbrouser when you run codes after you can get the result of gallery and then you can right click on the result you see to make inspect of the screen size by increasing size on mobile devices or decrease depending on what you are going to see.
+ and contains index.js with assets contains pictures I used .
+ 
 Navigate to the Challenges directory:
-cd Challenges
+
+ui Challenges
 you Open the arrayMap.js and stringTransform.js files in your preferred code editor to view the solutions,
 Approach
 Array Manipulation (arrayMap.js): I implemented a function to determine if there exists a contiguous subarray within an array that sums up to the target The solution follows the provided problem statement and constraints, achieving the expected time and space complexity
